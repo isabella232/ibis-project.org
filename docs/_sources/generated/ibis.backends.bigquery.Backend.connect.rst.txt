@@ -1,0 +1,6 @@
+﻿ibis.backends.bigquery.Backend.connect
+======================================
+
+.. currentmodule:: ibis.backends.bigquery
+
+.. automethod:: Backend.connect

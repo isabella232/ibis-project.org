@@ -1,0 +1,6 @@
+﻿ibis.backends.bigquery.BigQueryClient.list\_databases
+=====================================================
+
+.. currentmodule:: ibis.backends.bigquery
+
+.. automethod:: BigQueryClient.list_databases

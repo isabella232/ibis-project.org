@@ -1,0 +1,6 @@
+﻿ibis.backends.bigquery.BigQueryClient.database
+==============================================
+
+.. currentmodule:: ibis.backends.bigquery
+
+.. automethod:: BigQueryClient.database

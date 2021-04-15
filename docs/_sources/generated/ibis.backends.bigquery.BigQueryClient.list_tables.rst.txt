@@ -1,0 +1,6 @@
+﻿ibis.backends.bigquery.BigQueryClient.list\_tables
+==================================================
+
+.. currentmodule:: ibis.backends.bigquery
+
+.. automethod:: BigQueryClient.list_tables
